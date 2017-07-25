@@ -1,0 +1,12 @@
+{
+    "Description": "Create Actions which can be bound to user input",
+    "Version": "1.0.0",
+    "Repository": {
+        "Type": "Git",
+        "URL": "https://github.com/RbxPM/Actions"
+    },
+    "Author": {
+        "Name": "woot3",
+        "Id": 1451803
+    }
+}
